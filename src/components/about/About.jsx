@@ -45,7 +45,7 @@ const About = () => {
         <p>
           asjdhjkjakshdkjahsdkjahksjdhkajshdkjhaksjdhkashdkashdkahsd
           akjhkdashjkkdhaksdhkajshdkahsdkahskdjhaksdhjkajksdhkaj
-          asdoiasdoiausoiduaoiau.
+      
         </p>
         <a href="#contact" className='btn btn-primaty'> Lets Talk </a>
       </div>
