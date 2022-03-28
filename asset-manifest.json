@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bryanemmanuelcv/static/css/main.341161d0.css",
-    "main.js": "/bryanemmanuelcv/static/js/main.c8903a16.js",
-    "static/media/cv.pdf": "/bryanemmanuelcv/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/me.png": "/bryanemmanuelcv/static/media/me.821ecddcb9953b46bf75.png",
+    "main.css": "/bryanemmanuelcv/static/css/main.62dc2be7.css",
+    "main.js": "/bryanemmanuelcv/static/js/main.3a9ae16e.js",
+    "static/media/BryanEmmanuelPazCV.pdf": "/bryanemmanuelcv/static/media/BryanEmmanuelPazCV.14be3a57f26a85ccc056.pdf",
     "static/media/me-about.jpg": "/bryanemmanuelcv/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/me.png": "/bryanemmanuelcv/static/media/me.cf936034f5e28bbd4d58.png",
     "static/media/portfolio5.png": "/bryanemmanuelcv/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/portfolio2.jpg": "/bryanemmanuelcv/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio6.jpg": "/bryanemmanuelcv/static/media/portfolio6.72d1107e313049cf15a7.jpg",
@@ -12,11 +12,11 @@
     "static/media/portfolio3.jpg": "/bryanemmanuelcv/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/bryanemmanuelcv/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/bryanemmanuelcv/index.html",
-    "main.341161d0.css.map": "/bryanemmanuelcv/static/css/main.341161d0.css.map",
-    "main.c8903a16.js.map": "/bryanemmanuelcv/static/js/main.c8903a16.js.map"
+    "main.62dc2be7.css.map": "/bryanemmanuelcv/static/css/main.62dc2be7.css.map",
+    "main.3a9ae16e.js.map": "/bryanemmanuelcv/static/js/main.3a9ae16e.js.map"
   },
   "entrypoints": [
-    "static/css/main.341161d0.css",
-    "static/js/main.c8903a16.js"
+    "static/css/main.62dc2be7.css",
+    "static/js/main.3a9ae16e.js"
   ]
 }
