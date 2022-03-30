@@ -43,8 +43,11 @@ const About = () => {
 
     
         <p>
-          asjdhjkjakshdkjahsdkjahksjdhkajshdkjhaksjdhkashdkashdkahsd
-          akjhkdashjkkdhaksdhkajshdkahsdkahskdjhaksdhjkajksdhkaj
+          
+        Currently 4th year BSCS student at City College of Calamba and Freelance Graphic 
+        Designer i am looking for job within the I.T industry that will enable me to creatively 
+        showcase my talents while challenging me to adapt new skills and processses needed 
+        to advance within my chosen career path.
       
         </p>
         <a href="#contact" className='btn btn-primaty'> Lets Talk </a>

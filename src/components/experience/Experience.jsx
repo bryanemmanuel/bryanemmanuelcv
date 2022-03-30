@@ -46,7 +46,7 @@ const Experience = () => {
                 <article className='experience__details'>
                     <BsPatchCheckFill className='experience__details-icon'/>
                     <div>
-                      <h4>Mungo</h4>
+                      <h4>----</h4>
                       <small className='text-light'>intermediate</small>
                     </div>
                 </article>
@@ -54,7 +54,7 @@ const Experience = () => {
                 <article className='experience__details'>
                     <BsPatchCheckFill className='experience__details-icon'/>
                     <div>
-                      <h4>Mungo</h4>
+                      <h4>-----</h4>
                       <small className='text-light'>intermediate</small>
                     </div>
                 </article>
@@ -62,7 +62,7 @@ const Experience = () => {
                 <article className='experience__details'>
                     <BsPatchCheckFill className='experience__details-icon'/>
                     <div>
-                      <h4>Mungo</h4>
+                      <h4>-----</h4>
                       <small className='text-light'>intermediate</small>
                     </div>
                 </article>
@@ -91,7 +91,7 @@ const Experience = () => {
                 <article className='experience__details'>
                     <BsPatchCheckFill className='experience__details-icon'/>
                     <div>
-                      <h4>MongoDB</h4>
+                      <h4>-----</h4>
                       <small className='text-light'>intermediate</small>
                     </div>
                 </article>
@@ -100,38 +100,53 @@ const Experience = () => {
 
 
 
-          {/* <div className='experience__backend'>
+          <div className='experience__backend'>
           <h3>Frontend  Development tool </h3>
           <article className='experience__details'>
-                    <BsPatchCheckFill/>
+                    <BsPatchCheckFill className='experience__details-icon'/>
                    <div>
                      <h4>Adobe Photoshop</h4>
                       <small className='text-light'>intermediate</small>
                    </div>
                 </article>
                 <article className='experience__details'>
-                    <BsPatchCheckFill/>
+                    <BsPatchCheckFill className='experience__details-icon'/>
                     <div>
                       <h4>Adobe Illustrator</h4>
                       <small className='text-light'>intermediate</small>
                     </div>
                 </article>
                 <article className='experience__details'>
-                    <BsPatchCheckFill/>
+                    <BsPatchCheckFill className='experience__details-icon'/>
+                    <div>
+                      <h4>Adobe Xd</h4>
+                      <small className='text-light'>intermediate</small>
+                    </div>
+                </article>
+
+                <article className='experience__details'>
+                    <BsPatchCheckFill className='experience__details-icon'/>
+                    <div>
+                      <h4>Adobe Primier</h4>
+                      <small className='text-light'>intermediate</small>
+                    </div>
+                </article>
+                <article className='experience__details'>
+                    <BsPatchCheckFill className='experience__details-icon'/>
                     <div>
                       <h4>Canva</h4>
                       <small className='text-light'>intermediate</small>
                     </div>
                 </article>
                 <article className='experience__details'>
-                    <BsPatchCheckFill/>
+                    <BsPatchCheckFill className='experience__details-icon'/>
                     <div>
                       <h4>Figma</h4>
                       <small className='text-light'>intermediate</small>
                     </div>
                 </article>
                 
-          </div> */}
+          </div>
 
 
       </div>

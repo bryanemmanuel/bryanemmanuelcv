@@ -12,7 +12,7 @@ const data = [
 {
   id:1,
   image:Img1,
-  title:'Page 1',
+  title:'Test 1',
   github:'github.com',
   demo:'github.com'
 }
@@ -20,7 +20,7 @@ const data = [
 {
   id:2,
   image:Img2,
-  title:'Page 2',
+  title:'Test 2',
   github:'github.com',
   demo:'github.com'
 }
@@ -29,7 +29,7 @@ const data = [
 {
   id:3,
   image:Img3,
-  title:'Page 4',
+  title:'Test 4',
   github:'github.com',
   demo:'github.com'
 }
@@ -38,7 +38,7 @@ const data = [
 {
   id:4,
   image:Img4,
-  title:'Page 1',
+  title:'Test 1',
   github:'github.com',
   demo:'github.com'
 }
@@ -56,7 +56,7 @@ const data = [
 {
   id:6,
   image:Img6,
-  title:'Page 1',
+  title:'Test 1',
   github:'github.com',
   demo:'github.com'
 }

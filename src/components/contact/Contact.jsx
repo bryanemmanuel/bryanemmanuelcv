@@ -37,15 +37,15 @@ const sendEmail = (e) => {
                  <article className='contact__option'>
                     <RiMessengerLine className='contact__option-icon'/>
                     <h4>Messenger</h4>
-                    <h5>Bryan Paz</h5>
-                    <a href="mailto:bryan.emmanuel.paz@gmail.com">Send Message</a>
+                    <h5>Bryan Emmanuel Paz</h5>
+                    <a href="https://www.facebook.com/bryan.emmanuel.paz">Send Message</a>
                 </article>
 
                 <article className='contact__option'>
                     <MdOutlineMail className='contact__option-icon'/>
                     <h4>WhatsApp</h4>
-                    <h5>+09123121232</h5>
-                    <a href="https://apo.whatsapp/send?phone=+63">Send Message</a>
+                    <h5>+639087496959</h5>
+                    <a href="https://api.whatsapp.com/send?phone=639087496959">Send Message</a>
                 </article>
             </div>
             {/* End of contact */}
